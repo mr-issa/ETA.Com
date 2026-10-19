@@ -1,0 +1,6 @@
+{
+  "name": "ETA — E-Tactics Agency",
+  "description": "Digital marketing and creative strategy agency helping ambitious businesses build stronger digital brands, reach relevant audiences, and drive measurable growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
